@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+.DS_Store
+.env
+.env.*
+.claude/
+CLAUDE.md
+AGENTS.md
+
+# Caches written at runtime
+*.parquet
