@@ -1,5 +1,7 @@
 # Multi-Factor Momentum
 
+[![CI](https://github.com/aadithyasumod/multifactormomentum/actions/workflows/ci.yml/badge.svg)](https://github.com/aadithyasumod/multifactormomentum/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![License](https://img.shields.io/badge/license-all%20rights%20reserved-lightgrey)
+
 A Streamlit app that scores NIFTY 500 stocks from 0 to 100 on five momentum factors, inspired by Minervini/O'Neil (SEPA), Druckenmiller's regime awareness and Simons-style quantitative scoring.
 
 ![Single Stock view](docs/assets/app.png)
@@ -68,3 +70,9 @@ Makefile
 
 - For analysis and education only; not investment advice.
 - Earnings data comes from Yahoo's quarterly financials and may be missing for smaller stocks; the factor still scores.
+
+## License
+
+Copyright © 2026 aadithyasumod. All rights reserved.
+
+No license is granted. The code is published for reference: you may view it, but not use, copy, modify or distribute it without written permission.

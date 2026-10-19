@@ -12,3 +12,4 @@ AGENTS.md
 
 # Caches written at runtime
 *.parquet
+.ruff_cache/
